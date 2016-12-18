@@ -13,10 +13,8 @@ body {
 }
 #headertext {
 	width: 100%;
-	max-width: 400px;
 	margin: 0px;
 	color: #f2cbbc;
-	font-size: 2em;
 	text-align: center;
 	vertical-align: middle;
 	text-shadow: 10px 5px 10px black;
@@ -25,18 +23,13 @@ article {
 	margin: 10px;
 }
 .card {
-	width: 360px;
-	max-width: 90%;
-	min-height: 200px;
 	border-style: solid;
 	border-width: 1px;
 	border-color: #334431;
 	box-shadow: 10px 5px 10px #b67f1b;
-	margin: 0px auto 40px auto;
 	padding: 10px 10px 40px 10px;
 	border-radius: 5px;
 	background-color: #f2cbbc;
 	color: #334431;
-	font-size: 1.5em;
 	text-align: center;
 }
