@@ -1,0 +1,10 @@
+#headertext {
+  font-size: 6em;
+}
+
+.card {
+	width: 90%;
+	min-height: 30%;
+  margin: 0% auto 10% auto;
+  font-size: 4em;
+}
