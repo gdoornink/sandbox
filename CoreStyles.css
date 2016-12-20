@@ -2,14 +2,14 @@ body {
 	margin: 0px 0px 0px 0px;
 	background-color: #e6af4b;
 }
-header 
+header {
 	border-width: 20px;
 	margin: 10px;
 	padding: .5em 0em .5em 0em;
 	border-style: inset;
-	background-clip: padding-box;
 	border-color: rgba(51,68,49,0.3);
 	background-color: #334431;
+	background-clip: padding-box;
 }
 #headertext {
 	width: 100%;
