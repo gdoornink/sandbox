@@ -4,6 +4,7 @@
 	right: 10%;
 	transition: right 2s;
 	background-color: blue;
+	color: black;
 }
 #menu:hover {
 	right: 30%
