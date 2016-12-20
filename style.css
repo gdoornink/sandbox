@@ -4,7 +4,7 @@ div {
 	background-color: blue;
 	color: black;
 	width: 300px;
-	transition: height 1s;
+	-webkit-transition: height 1s;
 }
 
 div:hover {
