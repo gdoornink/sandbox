@@ -1,5 +1,6 @@
 div {
 	background-color: blue;
 	color: black;
+	display: table-cell;
 	width: 30%;
 }
