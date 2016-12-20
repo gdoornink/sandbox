@@ -1,4 +1,4 @@
-#menu {
+div {
 	position: fixed;
 	width: 30%
 	right: 10%;
@@ -6,6 +6,6 @@
 	background-color: blue;
 	color: black;
 }
-#menu:hover {
+div:hover {
 	right: 30%
 }
