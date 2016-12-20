@@ -1,12 +1,3 @@
-div {
-	width: 100px;
-	height: 100px;
-	background-color: blue;
-	color: black;
-	width: 300px;
-	-webkit-transition: height 0.5s ease-in;
-}
-
-div:hover {
-	height: 500px
+body {
+	background-color: #0A3200;
 }
