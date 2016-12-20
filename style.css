@@ -2,5 +2,6 @@ p {
 	background-color: blue;
 	color: black;
 	display: inline-table;
-	width: 30%;
+	position: fixed;
+	width: 300px;
 }
