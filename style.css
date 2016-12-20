@@ -34,8 +34,9 @@ header {
 	font-family: sans-serif;
 	font-size: 3vh;
 	text-align: center;
-	transition: color 1s;
+	opacity: 1;
+	transition: opacity 1s;
 }
 .card:hover {
-	color: rgba(68,17,81,0);
+	opacity: .5;
 }
