@@ -1,6 +1,13 @@
-p {
+#menu {
+	width: 100px;
+	height: 100px;
 	background-color: blue;
 	color: black;
 	display: inline-table;
 	width: 300px;
+	transition: height 1s;
+}
+
+#menu:hover {
+	height: 500px
 }
