@@ -1,11 +1,4 @@
 div {
-	position: fixed;
-	width: 30%
-	right: 10%;
-	transition: right 2s;
 	background-color: blue;
 	color: black;
-}
-div:hover {
-	right: 30%
 }
