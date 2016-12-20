@@ -19,6 +19,7 @@ header {
 	text-align: center;
 	vertical-align: middle;
 	text-shadow: 10px 5px 10px black;
+	transition: margin 1s;
 }
 article {
 	margin: 10px;
