@@ -38,5 +38,5 @@ header {
 	transition: opacity 1s;
 }
 div:hover {
-	opacity: .5;
+	background-color: black;
 }
