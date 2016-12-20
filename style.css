@@ -48,3 +48,8 @@ img {
 div:hover {
 	height: auto;
 }
+
+#Talented {
+	background-image: url("!Talented.jpg");
+	background-size: cover;
+}
