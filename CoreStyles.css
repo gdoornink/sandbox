@@ -2,7 +2,7 @@ body {
 	margin: 0px 0px 0px 0px;
 	background-color: #e6af4b
 }
-#headbar {
+header {
 	width: 100%-10px;
 	border-width: 5px;
 	margin: 0px 0px 0px 0px;
@@ -13,7 +13,8 @@ body {
 }
 #headertext {
 	width: 100%;
-	margin: 0px;
+	margin: 0px auto 0px 0px;
+	padding: 5px
 	color: #f2cbbc;
 	text-align: center;
 	vertical-align: middle;
