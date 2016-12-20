@@ -37,6 +37,7 @@ header {
 	text-align: center;
 	opacity: 1;
 	transition: opacity 1s;
+	transition: height 1s;
 }
 div:hover {
 	height: 400px;
