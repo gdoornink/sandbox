@@ -1,37 +1,10 @@
-body {
-	margin: 0px 0px 0px 0px;
-	background-color: #e6af4b;
+#menu {
+	position: fixed;
+	width: 30%
+	right: 10%;
+	transition: right 2s;
+	background-color: blue;
 }
-header {
-	border-width: 20px;
-	margin: 10px;
-	padding: .5em 0em .5em 0em;
-	border-style: inset;
-	border-color: rgba(51,68,49,0.3);
-	background-color: #334431;
-	background-clip: padding-box;
-}
-#headertext {
-	width: 100%;
-	margin: 0px auto 0px 0px;
-	padding: 5px
-	color: #f2cbbc;
-	text-align: center;
-	vertical-align: middle;
-	text-shadow: 10px 5px 10px black;
-	transition: margin 1s;
-}
-article {
-	margin: 10px;
-}
-.card {
-	border-style: solid;
-	border-width: 1px;
-	border-color: #334431;
-	box-shadow: 10px 5px 10px #b67f1b;
-	padding: 10px 10px 40px 10px;
-	border-radius: 5px;
-	background-color: #f2cbbc;
-	color: #334431;
-	text-align: center;
+#menu:hover {
+	right: 30%
 }
