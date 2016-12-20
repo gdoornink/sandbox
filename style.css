@@ -36,8 +36,9 @@ header {
 	font-size: 3vh;
 	text-align: center;
 	opacity: 1;
+	transition: height 0.5s;
+	-webkit-transition: height 0.5s;
 }
 div:hover {
-	transition: height 0.5s;
 	height: 400px;
 }
