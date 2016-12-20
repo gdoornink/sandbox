@@ -39,5 +39,5 @@ header {
 	transition: opacity 1s;
 }
 div:hover {
-	opacity:0.5;
+	height: 400px;
 }
