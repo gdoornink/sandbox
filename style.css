@@ -1,6 +1,6 @@
 div {
 	background-color: blue;
 	color: black;
-	display: table-cell;
+	display: inline-table;
 	width: 30%;
 }
