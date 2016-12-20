@@ -1,3 +1,12 @@
+/*
+Royal Purple:	#441151 68,17,81
+Lavendar:	#D7B8F3 215,184,243
+Navy:		#212D40 33,45,64
+Ivory:		#ECEBE4 236,235,228
+Forest Green:	#0A3200 10,50,0
+*/
+
 body {
 	background-color: #0A3200;
+	color: #ECEBE4;
 }
