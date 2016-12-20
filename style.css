@@ -1,4 +1,4 @@
-#menu {
+div {
 	width: 100px;
 	height: 100px;
 	background-color: blue;
@@ -7,6 +7,6 @@
 	transition: height 1s;
 }
 
-#menu:hover {
+div:hover {
 	height: 500px
 }
