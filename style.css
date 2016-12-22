@@ -13,10 +13,12 @@ body {
 
 #object {
 	position: fixed;
-	width: 10%;
-	height: 10%;
-	left: 10%;
-	top: 10%;
+	box-sizing: border-box;
+	border-style: solid;
+	border-width: 2%;
+	border-color: white;
+	width: 100%;
+	height: 100%;
 	background-color: black;
 	transition: height 0.5s;
 	-webkit-transition: height 0.5s;
