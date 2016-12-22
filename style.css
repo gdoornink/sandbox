@@ -16,7 +16,7 @@ body {
 	width: 10%;
 	height: 10%;
 	left: 10%;
-	top: 10%;
+	bottom: 10%;
 	background-color: black;
 	transition: height 0.5s;
 	-webkit-transition: height 0.5s;
