@@ -18,8 +18,8 @@ body {
 	left: 10%;
 	top: 10%;
 	background-color: black;
-	transition: width 0.5s;
-	-webkit-transition: width 0.5s;
+	transition: height 0.5s;
+	-webkit-transition: height 0.5s;
 }
 
 #object:hover {
