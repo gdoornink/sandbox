@@ -6,6 +6,10 @@ Ivory:			#ECEBE4 236,235,228
 Forest Green:	#0A3200 10,50,0
 */
 
+body {
+	margin: 0px;
+	background-color: #0A3200;
+}
 #backmain {
 	position: fixed;
 	top: 0px;
