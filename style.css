@@ -41,6 +41,7 @@ body {
 	border-top-color: gray;
 	width: 100%;
 	height: 20%;
+	background-color: black;
 	transition: height 0.5s;
 	-webkit-transition: height 0.5s;
 }
