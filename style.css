@@ -45,6 +45,6 @@ body {
 	-webkit-transition: height 0.5s;
 }
 
-footer:hover {
+#backslide:hover {
 	height: 0%;
 }
